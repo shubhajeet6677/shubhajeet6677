@@ -14,7 +14,7 @@ Hey, I'm Shubhajeet 👋<br><br>🎓 Student · 💻 Developer · ⚙️ Systems
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shubhajeet6677&theme=default&no-frame=false&no-bg=false&margin-w=4)
-[![trophy](https://github-profile-trophy.vercel.app/?username=shubhajeet6677&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 [![](https://komarev.com/ghpvc/?username=shubhajeet6677&icon=0&color=0)](https://visitcount.itsvg.in)
 
